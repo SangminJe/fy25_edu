@@ -1,5 +1,4 @@
 # created by virtualenv automatically
 /.venv/
+/archive/
 .env
-
-# 제상민 추가

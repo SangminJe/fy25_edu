@@ -9,6 +9,5 @@ langchain_teddynote
 beautifulsoup4
 streamlit
 sentence-transformers
-langchain_upstage
 python-dotenv
 ipykernel
