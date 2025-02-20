@@ -3,15 +3,12 @@ pydantic
 pymupdf
 langchain_community
 langchain_openai
-langchain_chroma
 langchain_experimental
 faiss-cpu
 langchain_teddynote
 beautifulsoup4
 streamlit
-streamlit-extras
 sentence-transformers
-openpyxl
 langchain_upstage
 python-dotenv
 ipykernel
